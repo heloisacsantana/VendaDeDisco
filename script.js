@@ -25,5 +25,7 @@ fetch('dados.json')
             `;
 
             container.appendChild(card);
+            console.log(disco)
         });
     });
+
