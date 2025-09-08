@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Sabrina Carpenter",
+        "album": "Man's Best Friend",
+        "style": "Pop",
+        "price": "R$45,00",
+        "image": "img/sabrina.jpg"
+    },
+    {
+        "name": "Ariana Grande",
+        "album": "Thank U, Next",
+        "style": "Pop",
+        "price": "R$35,00",
+        "image": "img/ariana.jpg"
+    },
+    {
+        "name": "Beyoncé",
+        "album": "BEYONCÉ",
+        "style": "Pop Rock",
+        "price": "R$40,00",
+        "image": "img/beyonce.jpg"
+    }
+]
